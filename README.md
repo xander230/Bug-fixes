@@ -29,3 +29,4 @@ Automated Testing: Implement automated testing to catch bugs early in the develo
 Key Considerations:
 Prioritize Bugs: Focus on fixing critical issues that directly impact user experience or security. 
 User Experience: Ensure the website provides a positive and functional user experience. 
+![image](https://github.com/user-attachments/assets/c95da7e8-0de3-40cc-b80d-efea890ee040)
